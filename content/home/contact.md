@@ -3,8 +3,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+active: false
+
+
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 130
@@ -15,7 +18,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -24,7 +27,7 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
 design:
   columns: '2'
 ---
