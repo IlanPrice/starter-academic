@@ -6,7 +6,7 @@
 title: Ilan Price # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-
+googleAnalytics: "G-HJZKB7W4ZM"
 ############################
 ## LANGUAGE
 ############################
