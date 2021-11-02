@@ -39,11 +39,13 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
-  url: http://example.org
+- name: PDF
+  url: http://proceedings.mlr.press/v139/price21a/price21a.pdf
+- name: Code
+  url: https://github.com/IlanPrice/DCTpS
 
-url_pdf: http://proceedings.mlr.press/v139/price21a/price21a.pdf
-url_code: https://github.com/IlanPrice/DCTpS
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
