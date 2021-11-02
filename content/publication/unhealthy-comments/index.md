@@ -48,10 +48,15 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
+links:
+- name: PDF
+  url: https://www.aclweb.org/anthology/2020.alw-1.15.pdf
+- name: Dataset
+  url: https://github.com/conversationai/unhealthy-conversations
 
-url_pdf: 'https://www.aclweb.org/anthology/2020.alw-1.15.pdf'
+url_pdf:
 url_code: ''
-url_dataset: 'https://github.com/conversationai/unhealthy-conversations'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
