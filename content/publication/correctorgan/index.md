@@ -38,12 +38,17 @@ tags: [GANs, precipitation forecasting, forecast downscaling]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+#
 # - name: Custom Link -->
 # url: 'https://example.org'
+links:
+- name: PDF
+  url: https://drive.google.com/file/d/110ArfJmdQEDY9AIe2dDoUhfwMMIiCmaY/view?usp=sharing
+- name: Code
+  url: https://github.com/raspstephan/nwp-downscale
 
-url_pdf: https://drive.google.com/file/d/110ArfJmdQEDY9AIe2dDoUhfwMMIiCmaY/view?usp=sharing
-url_code: https://github.com/raspstephan/nwp-downscale
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
