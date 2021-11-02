@@ -38,9 +38,9 @@ tags: [sparse neural networks, network pruning, subspace training]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: http://example.org
 
 url_pdf: http://proceedings.mlr.press/v139/price21a/price21a.pdf
 url_code: https://github.com/IlanPrice/DCTpS
