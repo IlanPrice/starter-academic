@@ -42,8 +42,8 @@ featured: true
 # - name: Custom Link -->
 # url: 'https://example.org'
 
-url_pdf: https://drive.google.com/file/d/110ArfJmdQEDY9AIe2dDoUhfwMMIiCmaY/view?usp=sharing
-url_code: https://github.com/raspstephan/nwp-downscale
+url_pdf: '' #https://drive.google.com/file/d/110ArfJmdQEDY9AIe2dDoUhfwMMIiCmaY/view?usp=sharing
+url_code: '' #https://github.com/raspstephan/nwp-downscale
 url_dataset: ''
 url_poster: ''
 url_project: ''
