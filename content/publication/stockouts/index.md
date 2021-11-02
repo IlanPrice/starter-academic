@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ajol.info/index.php/samj/article/view/161439'
+url_pdf: https://www.ajol.info/index.php/samj/article/view/161439
 url_code: ''
 url_dataset: ''
 url_poster: ''
