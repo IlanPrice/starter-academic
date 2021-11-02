@@ -42,8 +42,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://proceedings.mlr.press/v139/price21a/price21a.pdf'
-url_code: 'https://github.com/IlanPrice/DCTpS'
+url_pdf: http://proceedings.mlr.press/v139/price21a/price21a.pdf
+url_code: https://github.com/IlanPrice/DCTpS
 url_dataset: ''
 url_poster: ''
 url_project: ''
