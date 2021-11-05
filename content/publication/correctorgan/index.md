@@ -43,7 +43,7 @@ featured: true
 # url: 'https://example.org'
 links:
 - name: PDF
-  url: https://drive.google.com/file/d/110ArfJmdQEDY9AIe2dDoUhfwMMIiCmaY/view?usp=sharing
+  url: ''
 - name: Code
   url: https://github.com/raspstephan/nwp-downscale
 
