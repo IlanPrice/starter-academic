@@ -21,7 +21,7 @@ bio: My research concerns the mathematics of deep learning and sparse neural net
 # Interests to show in About widget
 interests:
 - Deep Learning
-- Machine Leaning for Social Good
+- Machine Learning for Social Good
 
 # Education to show in About widget
 education:
