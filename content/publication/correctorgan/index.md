@@ -20,11 +20,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-publication_short: arXiv
+publication: The 25th International Conference on Artificial Intelligence and Statistics
+publication_short: AISTATS 2022
 
 abstract: Accurately forecasting extreme rainfall is notoriously difficult, but is also ever more crucial for society as climate change increases the frequency of such extremes. Global numerical weather prediction models often fail to capture extremes, and are produced at too low a resolution to be actionable, while regional, high-resolution models are hugely expensive both in computation and labour. In this paper we explore the use of deep generative models to simultaneously correct and downscale (super-resolve) global ensemble forecasts over the Continental US. Specifically, using fine-grained radar observations as our ground truth, we train a conditional Generative Adversarial Network — coined CorrectorGAN — via a custom training procedure and augmented loss function, to produce ensembles of high-resolution, bias-corrected forecasts based on coarse, global precipitation forecasts in addition to other relevant meteorological fields. Our model significantly outperforms an interpolation baseline, and approaches the performance of an operational regional high-resolution model across an array of established probabilistic metrics. Crucially, CorrectorGAN, once trained, produces predictions in seconds on a single machine. These results raise exciting questions about the necessity of regional models, and whether data-driven downscaling and correction methods can be transferred to data-poor regions that so far have had no access to high-resolution forecasts.
 
@@ -43,9 +43,9 @@ featured: true
 # url: 'https://example.org'
 links:
 - name: PDF
-  url: ''
+  url: 'https://proceedings.mlr.press/v151/price22a/price22a.pdf'
 - name: Code
-  url: https://github.com/raspstephan/nwp-downscale
+  url: 'https://github.com/raspstephan/nwp-downscale'
 
 url_pdf: ''
 url_code: ''
