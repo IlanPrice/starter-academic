@@ -71,7 +71,9 @@ email: ""
 highlight_name: true
 ---
 
-I am an Applied Mathematics PhD Candidate at the University of Oxford and the Alan Turing Institute. My PhD research focusses on understanding and improving our ability to train deep neural networks in sparse or otherwise low dimensional spaces.
+I am an Applied Mathematics PhD Candidate at the University of Oxford and the Alan Turing Institute. My PhD research focusses on sparsity, low-dimensionality, and efficiency in deep learning. 
+
+From May to October 2022 I will be joining DeepMind as a Research Scientist Intern, working on applying deep learning to weather/climate. I also did some work in this area in 2021 as a Research Intern with ClimateAI. 
 
 Outside of this area I am broadly interested in interdisciplinary applications of Machine Learning for social good, and have a diverse background spanning different research areas, as well as leadership and organisational experience.
 
