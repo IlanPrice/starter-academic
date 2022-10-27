@@ -73,7 +73,7 @@ highlight_name: true
 
 I am an Applied Mathematics PhD Candidate at the University of Oxford and the Alan Turing Institute. My PhD research focusses on sparsity, low-dimensionality, and efficiency in deep learning. 
 
-From October 2022 to January 2023 I'll be at Google Brain in Mountain View as a research intern, working on model efficency in deep learning. From May to October 2022 I was a at DeepMind as a Research Scientist Intern, working on applying deep learning to weather/climate. I also did some work in that area in 2021 as a Research Intern with ClimateAI. 
+From October 2022 to January 2023 I'll be at Google Brain in Mountain View as a research intern, working on model efficency in deep learning. From May to October 2022 I was at DeepMind as a Research Scientist Intern, working on applying deep learning to weather/climate. I also did some work on that topic in 2021 as a Research Intern with ClimateAI. 
 
 Outside of these areas I am broadly interested in interdisciplinary applications of Machine Learning for social good, and have a diverse background spanning different research areas, as well as leadership and organisational experience.
 
