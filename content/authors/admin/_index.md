@@ -71,11 +71,11 @@ email: ""
 highlight_name: true
 ---
 
-I am an Applied Mathematics PhD Candidate at the University of Oxford and the Alan Turing Institute. My PhD research focusses on sparsity, low-dimensionality, and efficiency in deep learning. 
+I am a South African Research Scientist at Google DeepMind. I am also finishing up my DPhil in Mathematics at the University of Oxford and the Alan Turing Institute. 
 
-I recently spent October 2022 to March 2023 at Google Brain in Mountain View as a research intern, working on model efficency in deep learning. From May to October 2022 I was at DeepMind as a Research Scientist Intern, working on applying deep learning to weather/climate. I also did some work on that topic in 2021 as a Research Intern with ClimateAI. 
+My DPhil research has focused on sparsity and efficiency in deep learning, and I have also spent some time working on deep learning for weather forecasting. Beyond these topics I have a broad set of research areas I think are exciting and important - from AI4science to new model architectures to factuality and attribution in LLMs to applications of Machine Learning for social good.  
 
-Outside of these areas I am broadly interested in interdisciplinary applications of Machine Learning for social good, and have a diverse background spanning different research areas, as well as leadership and organisational experience.
+I have a relatively diverse and interdisciplinary background which includes substantial leadership and organisational experience. Prior to the DPhil, I completed an MSc in Mathematical Modelling and Scientific Computing at Oxford, and received my undergraduate degree in Applied Mathematics and Philosophy from the University of Cape Town. Along the way I have also done a few non-research related things like running a social justice oriented youth organization in SA.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
