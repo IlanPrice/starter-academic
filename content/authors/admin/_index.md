@@ -6,14 +6,12 @@ title: Ilan Price
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Mathematical Institute, University of Oxford
-  url: https://www.maths.ox.ac.uk/
-- name: The Alan Turing Institute
-  url: https://www.turing.ac.uk/
+- name: Google DeepMind
+  url: https://www.deepmind.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research concerns the mathematics of deep learning and sparse neural networks
