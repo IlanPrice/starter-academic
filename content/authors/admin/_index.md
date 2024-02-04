@@ -69,9 +69,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a South African Research Scientist at Google DeepMind. I am also finishing up my DPhil in Mathematics at the University of Oxford and the Alan Turing Institute. 
+I am a South African Research Scientist at Google DeepMind, where I am currently working on using AI to improve weather forecasting.
 
-My DPhil research has focused on sparsity and efficiency in deep learning, and I have also spent some time working on deep learning for weather forecasting. Beyond these topics I have a broad set of research areas I think are exciting and important - from AI4science to new model architectures to factuality and attribution in LLMs to applications of Machine Learning for social good.  
+I also recently submitted my DPhil in Mathematics at the University of Oxford and the Alan Turing Institute. My DPhil research focused on sparsity and efficiency in deep learning. Beyond these topics I have a broad set of research areas I think are exciting and important - from AI4science, to new model architectures to attribution and watermarking in large models, to applications of Machine Learning for social good.  
 
 I have a relatively diverse and interdisciplinary background which includes substantial leadership and organisational experience. Prior to the DPhil, I completed an MSc in Mathematical Modelling and Scientific Computing at Oxford, and received my undergraduate degree in Applied Mathematics and Philosophy from the University of Cape Town. Along the way I have also done a few non-research related things like running a social justice oriented youth organization in SA.
 
